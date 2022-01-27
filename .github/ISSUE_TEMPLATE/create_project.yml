@@ -6,12 +6,13 @@ body:
   - type: markdown
     attributes:
       value: |
-      New project
+        New project
   - type: textarea
-    label: Content
-    value: |
-       ### Links
-        
+    attributes:
+      label: Content
+      value: |
+        ### Links
+
         ShotGrid: https://automatik-vfx.shotgunstudio.com/page/project_overview?project_id=1879
         File system: **London** `/mnt/projects/slingshot`
 

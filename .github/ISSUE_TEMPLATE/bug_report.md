@@ -7,15 +7,15 @@ assignees: ''
 
 ---
 
-**Description**
+#### Description
 
-**To Reproduce**
-Steps to reproduce the behaviour:
+#### Steps to reproduce
 1. 
 
-**Expected behaviour**
+#### Expected behaviour
 
-**Possible Solution**
+#### Possible solution
 
-**Notes**
-Found by:
+#### Notes
+
+Reporter: Name (Slack link) (Office)

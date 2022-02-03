@@ -1,9 +1,10 @@
 ---
 name: New project
 about: A new project needs to be created for pipeline and production.
-title: 'New project - NAME'
-labels: task
+title: New project - NAME
+labels: ''
 assignees: ''
+
 ---
 
 **Links**

@@ -18,6 +18,7 @@ assignees: ''
 - [ ] Create file system folder via AMI
 - [ ] Create OCIO setup
 - [ ] Create Delivery Packager setup
+- [ ] Deploy OCIO and Delivery Packager configs studio-wide
 
 #### Archiving Tasks
 

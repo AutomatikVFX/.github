@@ -1,16 +1,16 @@
 ---
 name: Feature
-about: Suggest an idea for this project
+about: Add new functionality 
 title: ''
 labels: feature
 assignees: ''
-
 ---
+Description text
 
-#### Is your feature request related to a problem? Please describe.
+#### Implementation details / solutions
 
-#### Describe the solution you'd like
+#### Open questions / discussions
 
-#### Describe alternatives you've considered
+#### Notes
 
-#### Additional context
+Reporter: [First Last](https://automatikvisu-yr29663.slack.com/team/) `Berlin`|`London` or @github-user

@@ -1,5 +1,3 @@
-Resolves #
-
 Description text
 
 #### Changes
@@ -12,4 +10,7 @@ Description text
 
 #### Notes
 
+Resolves #
+
 @AutomatikVFX/pipeline
+

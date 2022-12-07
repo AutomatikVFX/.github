@@ -1,0 +1,18 @@
+# Reusable workflow to add any Pull Request to the "Pipeline - Pull Request" project.
+name: Add pull request to project
+
+on:
+  workflow_call:
+    secrets:
+      github-token:
+        required: true
+
+jobs:
+  add-to-project:
+    name: Add pull request to project
+    runs-on: [self-hosted, Linux]
+    steps:
+      - uses: actions/add-to-project@main
+        with:
+          project-url: https://github.com/orgs/AutomatikVFX/projects/5
+          github-token: ${{ secrets.github-token }}

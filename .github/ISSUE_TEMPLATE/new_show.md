@@ -2,7 +2,7 @@
 name: New Show
 about: A new project/show needs to be created for pipeline and production.
 title: NAME - Full Project Name
-labels: ''
+labels: 'task, show'
 assignees: fabiangeisler, peternepp
 
 ---
@@ -28,12 +28,13 @@ assignees: fabiangeisler, peternepp
 - [ ] Archive on ShotGrid
 
 #### Color setup
-ACES
+Base config.ocio: **ACES**|**linear**
+
 ```mermaid
   graph LR;
       A[ ACES2065-1 ]-->B[ ACEScct ] -->C{{ ShotLUT }} -->D{{ ProjectLUT }} --> E[ ACEScct ] -->F[ Rec709 ] ;
 ```
-linear
+
 ```mermaid
   graph LR;
       A[ linear ]-->B[ AlexaLogC ] -->C{{ ShotLUT }} -->D{{ ProjectLUT }} --> E[ AlexaLogC ] -->F[ Rec709 ] ;

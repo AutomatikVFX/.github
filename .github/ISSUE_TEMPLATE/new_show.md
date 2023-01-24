@@ -2,8 +2,9 @@
 name: New Show
 about: A new project/show needs to be created for pipeline and production.
 title: NAME - Full Project Name
-labels: 'task, show'
-assignees: ''
+labels: ''
+assignees: fabiangeisler, peternepp
+
 ---
 
 #### Info
@@ -25,3 +26,15 @@ assignees: ''
 - [ ] Create plate and comp ProRes movies
 - [ ] Create folder structure and copy Nuke scripts
 - [ ] Archive on ShotGrid
+
+#### Color setup
+ACES
+```mermaid
+  graph LR;
+      A[ ACES2065-1 ]-->B[ ACEScct ] -->C{{ ShotLUT }} -->D{{ ProjectLUT }} --> E[ ACEScct ] -->F[ Rec709 ] ;
+```
+linear
+```mermaid
+  graph LR;
+      A[ linear ]-->B[ AlexaLogC ] -->C{{ ShotLUT }} -->D{{ ProjectLUT }} --> E[ AlexaLogC ] -->F[ Rec709 ] ;
+```

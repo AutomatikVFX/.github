@@ -1,10 +1,12 @@
 ---
 name: Feature
-about: Add new functionality 
+about: Add new functionality
 title: ''
 labels: feature
 assignees: ''
+
 ---
+
 Description text
 
 #### Implementation details / solutions

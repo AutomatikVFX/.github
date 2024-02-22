@@ -10,6 +10,6 @@
 
 #### Notes
 
-- [ ] I checked and updated documentation (Ling to docs)
+- [ ] Is documentation up-to-date? (Paste link to documentation page here)
 
 @AutomatikVFX/pipeline

@@ -2,7 +2,7 @@
 name: New Show
 about: A new project/show needs to be created for pipeline and production.
 title: NAME - Full Project Name
-labels: ''
+labels: show
 assignees: ''
 
 ---

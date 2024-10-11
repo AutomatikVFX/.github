@@ -2,12 +2,13 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: bug
+labels: ''
+type: bug
 assignees: ''
 
 ---
 
-Description text
+Description
 
 #### Steps to reproduce
 
@@ -20,4 +21,4 @@ Description text
 
 #### Notes
 
-Reporter: [First Last](https://automatikvisu-yr29663.slack.com/team/) `Berlin`|`London` or @github-user
+Reporter: Full Name `Berlin`|`London` or @github-user

@@ -2,12 +2,13 @@
 name: Feature
 about: Add new functionality
 title: ''
-labels: feature
+labels: ''
+type: feature
 assignees: ''
 
 ---
 
-Description text
+Description
 
 #### Implementation details / solutions
 
@@ -15,4 +16,4 @@ Description text
 
 #### Notes
 
-Reporter: [First Last](https://automatikvisu-yr29663.slack.com/team/) `Berlin`|`London` or @github-user
+Reporter: Full Name `Berlin`|`London` or @github-user

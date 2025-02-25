@@ -10,11 +10,10 @@ assignees: ''
 
 Description
 
-```[tasklist]
-### Tasks
+### Issues / Tasks
 - [ ] Can be topic headline draft for future issues
 - [ ] or a link to another issue #...
-``` 
+- [ ] Also consider using GitHubs sub-issues to track these
 
 #### Open questions / discussions
 

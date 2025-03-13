@@ -11,12 +11,12 @@ assignees: ''
 #### Info
 
 - Name: Full Project Name
-- ShotGrid: [ShotGrid - NAME](https://automatik-vfx.shotgunstudio.com/page/project_overview?project_id=ID)
+- FPTR: [NAME](https://automatik-vfx.shotgunstudio.com/page/project_overview?project_id=ID)
 - Location: `LONDON`|`BERLIN` `/mnt/projects/NAME`
 
 #### Creation Tasks
 
-- [x] Create ShotGrid project
+- [x] Create FPTR project
 - [ ] Create file system folder via AMI
 - [ ] Create OCIO setup
 - [ ] Create Delivery Packager setup
@@ -26,7 +26,7 @@ assignees: ''
 
 - [ ] Create plate and comp ProRes movies
 - [ ] Create folder structure and copy Nuke scripts
-- [ ] Archive on ShotGrid
+- [ ] Archive on FPTR
 
 #### Color setup
 Base config.ocio: **ACES**|**linear**

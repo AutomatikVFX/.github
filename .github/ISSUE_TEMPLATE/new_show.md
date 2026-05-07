@@ -12,7 +12,7 @@ assignees: ''
 
 - Name: Full Project Name
 - FPTR: [NAME](https://automatik-vfx.shotgunstudio.com/page/project_overview?project_id=ID)
-- Location: `LONDON`|`BERLIN` `/mnt/projects/NAME`
+- Location: `/mnt/projects/NAME`
 
 #### Creation Tasks
 
@@ -26,4 +26,3 @@ assignees: ''
 
 - [ ] Create plate and comp ProRes movies
 - [ ] Create folder structure and copy Nuke scripts
-- [ ] Archive on FPTR
